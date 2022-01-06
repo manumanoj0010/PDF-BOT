@@ -17,19 +17,19 @@
 			"required": true
 		},
 		"API_HASH": {
-			"description": "fbb4ec6a761587ba83c7b260b2c557e1",
+			"description": "your api",
 			"required": true
 		},
 		"API_TOKEN": {
-			"description": "5072102777:AAEe5OSmIcynTATK1IZ20ZvIT16F5dl4Caw",
+			"description": "your api",
 			"required": true
 		},
 		"UPDATE_CHANNEL": {
-			"description": "ChannelId if you need force Subscription",
+			"description": "your api",
 			"required": false
 		},
 		"CONVERT_API": {
-			"description": "925975554",
+			"description": "your api",
 			"required": false
 		},
 		"MAX_FILE_SIZE": {
