@@ -5,7 +5,7 @@
 <p> Scan the QR code below</P>
 
 ![](https://raw.githubusercontent.com/manumanoj0010/PDF-BOT/main/share.jpeg)
-
+<h5> or </h5>
 <ul>
      <li>Open Telegram</li>
      <li>Search converter_pdf_bot </li>
