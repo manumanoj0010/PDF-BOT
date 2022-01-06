@@ -2,6 +2,8 @@
 <h1><b>PDF BOT</b></h1>
 </div>
 <h3>DEMO</h3>
+<p> Scan the QR code below</P>
+![](https://raw.githubusercontent.com/manumanoj0010/PDF-BOT/main/share.jpeg)
 <ul>
      <li>Open Telegram</li>
      <li>Search converter_pdf_bot </li>
