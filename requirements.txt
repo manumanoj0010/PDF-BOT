@@ -1,0 +1,6 @@
+pillow
+PyPDF2
+PyMuPdf
+pyrogram
+tgcrypto
+convertapi
