@@ -1,12 +1,5 @@
 
-# -*- coding: utf-8 -*-
 
-# ABOUT DEV. & SOURCE CODE
-#    nabilanavab, india, kerala
-#    Telegram: @nabilanavab
-#    Email: nabilanavab@gmail.com
-#    copyright ©️ 2021 nabilanavab
-#    Released Under Apache License
 
 
 import os
