@@ -72,4 +72,4 @@
 <h2 align="center">Privacy & Security:</h2>
 
      Ones the necessary task is completed, all your images including the pdf file will be removed from the server.
-    
+ <h3>Made with ❤ by Manoj & Swetha</h3>
