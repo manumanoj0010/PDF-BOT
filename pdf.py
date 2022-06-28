@@ -1,7 +1,3 @@
-
-
-
-
 import os
 import fitz
 import shutil
